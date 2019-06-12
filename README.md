@@ -1,2 +1,3 @@
 # PaySoundAVFoundationSwift
-This program demonstrates how you can play any type of sound in your iOS app using framework AVFoundation. 
+A simple demonstration of - 
+- playing any type of sound (from sound file) in your iOS app using the AVFoundation framework. 
